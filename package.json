@@ -1,0 +1,32 @@
+{
+  "name": "beattime",
+  "version": "0.0.1",
+  "description": "A module for getting Swatch internet time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azarbayejani/beattime"
+  },
+  "keywords": [
+    "beat",
+    "time",
+    "swatch",
+    "internet",
+    "time",
+    ".beat"
+  ],
+  "author": "Bobby Azarbayejani",
+  "license": "New BSD License",
+  "bugs": {
+    "url": "https://github.com/azarbayejani/beattime/issues"
+  },
+  "homepage": "https://github.com/azarbayejani/beattime",
+  "dependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1",
+    "moment": "^2.9.0"
+  }
+}
